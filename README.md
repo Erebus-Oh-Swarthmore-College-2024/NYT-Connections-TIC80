@@ -1,5 +1,7 @@
 # Make Project
 
+https://erebus-oh-swarthmore-college.github.io/NYT-Connections-TIC80/
+
 Trisha Razdan (trazdan1@swarthmore.edu), Erebus Oh (eoh2@swarthmore.edu)
 
 Collaboration statement: We worked together to complete the Make of NYT Connections.
